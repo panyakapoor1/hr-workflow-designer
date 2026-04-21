@@ -63,3 +63,24 @@ Mock API functions are async with fake delays so they're easy to swap for real e
 ## Tech
 
 React 18, TypeScript, Vite 5, React Flow 11, Zustand 4, dagre, Tailwind CSS 3, lucide-react, clsx
+
+## Contributing
+1. Fork the repository
+2. Clone your fork
+``` bash
+git clone https://github.com/your-username/repository-name.git
+```
+3. Create a new branch
+``` bash
+git checkout -b feature-name
+```
+4. Make changes & commit
+``` bash
+git add .
+git commit -m "Describe your changes"
+```
+5. Push to your fork
+``` bash
+git push origin feature-name
+```
+6. Open a Pull Request to merge your changes
